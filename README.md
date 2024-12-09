@@ -18,4 +18,5 @@
 5. **Record Verification**: A sensor checks if the latest record in the table is less than 30 seconds old to confirm the insertion.
 
 ### Result
-[Results](!/img/)
+![Result_1](./img/airflow_ui.PNG)
+![Result_2](./img/table.PNG)
